@@ -5,16 +5,16 @@ Origin: Ambient
 Label: Ambient Browser
 Suite: stable
 Codename: ambient-browser
-Date: Tue, 06 Oct 2026 14:46:22 +0000
+Date: Tue, 06 Oct 2026 14:52:55 +0000
 Architectures: amd64 arm64 all
 Description: Ambient Browser packages for Ubuntu 26.04
 SHA256:
- bc031c669fe7bca862d6d2e3a9047893325cdc7a00f1d1512a1900819c6a2abe 1362 Packages
- 4c7f6fecedae87793c12cfcbcd7c4a35c226cc060a5d27426b126f7b1ae3f361 584 Packages.gz
+ 4958979d5618d942c81a12b3e431ab17b208dcd3f0662bc8cea14ef8b52a2e0f 2043 Packages
+ efabfa008f917dedd8a008e955247b8e4260c47d730f6935e25607185c4137e0 693 Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQSFRHTGVBR9CxPNtSvkLiNvBOoKHwUCasUJvgAKCRDkLiNvBOoK
-H/bpAQDViZvmKBCJG7AvaECHKYir2ATuVq0lc61wMTZ+tyInyAD+ONug9Gobua6E
-APco7ErO1hF0desd+YFi9JIXBQFUvwg=
-=RmPN
+iHUEARYKAB0WIQSFRHTGVBR9CxPNtSvkLiNvBOoKHwUCasULRwAKCRDkLiNvBOoK
+H3nEAQCAnM6YrOwRtH4j2OxEt6N8tSjuerbXy0bVjBsCzFoo1gEA8zWH6KLSxaAy
+Tg5meGrEWJvKQe9tYUDvH0tkrQgfbAg=
+=0uJW
 -----END PGP SIGNATURE-----

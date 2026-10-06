@@ -30,3 +30,19 @@ Description: Ambient OS web browser
  Chromium-based browser with Ambient themes, animated welcome,
  favorites, private windows, and configurable search engine.
 
+Package: ambient-browser
+Version: 1.0.2-1
+Architecture: all
+Maintainer: Hajime4th <42915482+Hajime4th@users.noreply.github.com>
+Depends: python3, python3-pyside6.qtwebenginewidgets (>= 6.10), python3-pyside6.qtdbus, python3-pyside6.qtsvg, qt6-qpa-plugins, libxcb-cursor0
+Filename: ./ambient-browser_1.0.2-1_all.deb
+Size: 33832
+MD5sum: 4a4be714acd0e399f783d2a10521b2c7
+SHA1: a0ca9c15234fb9344fa459073bbffb3166bd3b4e
+SHA256: 203d25135b0a3fc7f99a8759301b0c3e226dfb08f0535a241bb319d855a4403d
+Section: web
+Priority: optional
+Description: Ambient OS web browser
+ Chromium-based browser with Ambient themes, animated welcome,
+ favorites, private windows, and configurable search engine.
+
