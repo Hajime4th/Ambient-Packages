@@ -2,9 +2,9 @@ Origin: Ambient
 Label: Ambient Browser
 Suite: stable
 Codename: ambient-browser
-Date: Tue, 06 Oct 2026 14:52:55 +0000
+Date: Tue, 06 Oct 2026 15:05:31 +0000
 Architectures: amd64 arm64 all
 Description: Ambient Browser packages for Ubuntu 26.04
 SHA256:
- 4958979d5618d942c81a12b3e431ab17b208dcd3f0662bc8cea14ef8b52a2e0f 2043 Packages
- efabfa008f917dedd8a008e955247b8e4260c47d730f6935e25607185c4137e0 693 Packages.gz
+ 7b39178dc096d0537f57d8fbe472b50013850f840f348607dafdb0ecb29e0d0f 2724 Packages
+ 70aa0724c8d6ac8c6d74ed201b98b6a84899b197b7be017116a6477435529d45 797 Packages.gz
