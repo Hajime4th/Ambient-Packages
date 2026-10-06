@@ -9,7 +9,7 @@ Run in Terminal as your normal desktop user:
 
 ```bash
 sudo apt install -y curl
-curl -fsSL https://hajime4th.github.io/Ambient-Packages/setup-browser.sh -o /tmp/setup-ambient-browser.sh
+curl -fsSL https://raw.githubusercontent.com/Hajime4th/Ambient-Packages/main/setup-browser.sh -o /tmp/setup-ambient-browser.sh
 bash /tmp/setup-ambient-browser.sh
 ```
 
@@ -41,7 +41,7 @@ Create `/etc/apt/sources.list.d/ambient-browser.sources`:
 
 ```text
 Types: deb
-URIs: https://hajime4th.github.io/Ambient-Packages/browser/
+URIs: https://raw.githubusercontent.com/Hajime4th/Ambient-Packages/main/browser/
 Suites: ./
 Signed-By: /etc/apt/keyrings/ambient-browser.gpg
 ```
